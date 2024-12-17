@@ -1,0 +1,9 @@
+{
+	"name": "adffordevops21",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64654cac-d306-4a2f-bf7b-282fe9413f16",
+		"tenantId": "95b03886-3901-4792-a986-b42f81a92f2e"
+	}
+}
